@@ -1,0 +1,14 @@
+{
+    "name": "app",
+    "description": "2021",
+    "license": "MIT",
+    "version": "0.0.1",
+    "repository": "No hay, esto es una prueba",
+    "scripts": {
+        "server": "node app.js"
+    },
+    "dependencies": {
+        "express": "*"
+    },
+    "devDependencies": {}
+}
